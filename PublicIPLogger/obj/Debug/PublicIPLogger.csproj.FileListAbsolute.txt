@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.pdb
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\obj\Debug\PublicIPLogger.exe
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\obj\Debug\PublicIPLogger.pdb
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\obj\Debug\PublicIPLogger.ProjectInstaller.resources
+c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\obj\Debug\PublicIPLogger.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe.CodeAnalysisLog.xml
+C:\Users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe.lastcodeanalysissucceeded

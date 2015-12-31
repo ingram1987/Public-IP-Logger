@@ -1,0 +1,165 @@
+﻿Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe assembly.
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe assembly.
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\Visual Studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
