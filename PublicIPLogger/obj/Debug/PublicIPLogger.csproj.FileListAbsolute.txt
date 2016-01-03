@@ -7,3 +7,11 @@ c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogge
 c:\users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\obj\Debug\PublicIPLogger.csproj.GenerateResource.Cache
 C:\Users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe.CodeAnalysisLog.xml
 C:\Users\user\documents\visual studio 2013\Projects\PublicIPLogger\PublicIPLogger\bin\Debug\PublicIPLogger.exe.lastcodeanalysissucceeded
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe.config
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.pdb
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Debug\PublicIPLogger.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Debug\PublicIPLogger.ProjectInstaller.resources
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Debug\PublicIPLogger.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Debug\PublicIPLogger.exe
+C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Debug\PublicIPLogger.pdb

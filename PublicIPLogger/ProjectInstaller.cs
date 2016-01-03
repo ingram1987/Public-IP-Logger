@@ -15,5 +15,15 @@ namespace PublicIPLogger
         {
             InitializeComponent();
         }
+
+        private void serviceProcessInstaller1_AfterInstall(object sender, InstallEventArgs e)
+        {
+
+        }
+
+        private void Public_IP_Logger_AfterInstall(object sender, InstallEventArgs e)
+        {
+
+        }
     }
 }

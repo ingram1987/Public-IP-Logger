@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using System.Threading;
+using System.Timers;
+
 
 namespace PublicIPLogger
 {
@@ -18,24 +20,35 @@ namespace PublicIPLogger
         {
             InitializeComponent();
         }
-
+        //private Thread executeThread;
+        Helper helper = new Helper();
+        //private Thread thread = new Thread(new ThreadStart(helper.getPublicIP));
+        private Thread thread;
         protected override void OnStart(string[] args)
         {
             if (!EventLog.Exists("PublicIPLogger"))
             {
-                EventLog.CreateEventSource("Public IP Logger", "PublicIPLogger");
+                EventLog.CreateEventSource("PublicIPLogger", "PublicIPLogger");
             }
+            /*
             while (0 != 1)
             {
                 Helper helper = new Helper();
                 helper.getPublicIP();
-                Thread.Sleep(3600000);
-            }
+                Thread.Sleep(10000);
+            }*/
+            Thread thread = new Thread(new ThreadStart(helper.getPublicIP));
+            thread.Start();
+            
+
 
         }
 
+
+
         protected override void OnStop()
         {
+            thread.Abort();
         }
     }
 }

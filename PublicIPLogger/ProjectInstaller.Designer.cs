@@ -29,30 +29,32 @@
         private void InitializeComponent()
         {
             this.serviceProcessInstaller1 = new System.ServiceProcess.ServiceProcessInstaller();
-            this.PublicIPLogger = new System.ServiceProcess.ServiceInstaller();
+            this.Public_IP_Logger = new System.ServiceProcess.ServiceInstaller();
             // 
             // serviceProcessInstaller1
             // 
             this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             this.serviceProcessInstaller1.Password = null;
             this.serviceProcessInstaller1.Username = null;
+            this.serviceProcessInstaller1.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceProcessInstaller1_AfterInstall);
             // 
-            // PublicIPLogger
+            // Public_IP_Logger
             // 
-            this.PublicIPLogger.DisplayName = "Public IP Logger";
-            this.PublicIPLogger.ServiceName = "PublicIPLogger";
+            this.Public_IP_Logger.DisplayName = "Public_IP_Logger";
+            this.Public_IP_Logger.ServiceName = "Public_IP_Logger";
+            this.Public_IP_Logger.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.Public_IP_Logger_AfterInstall);
             // 
             // ProjectInstaller
             // 
             this.Installers.AddRange(new System.Configuration.Install.Installer[] {
-            this.serviceProcessInstaller1,
-            this.PublicIPLogger});
+            this.Public_IP_Logger,
+            this.serviceProcessInstaller1});
 
         }
 
         #endregion
 
         private System.ServiceProcess.ServiceProcessInstaller serviceProcessInstaller1;
-        private System.ServiceProcess.ServiceInstaller PublicIPLogger;
+        private System.ServiceProcess.ServiceInstaller Public_IP_Logger;
     }
 }
