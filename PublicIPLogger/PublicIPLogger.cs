@@ -37,7 +37,7 @@ namespace PublicIPLogger
                 helper.getPublicIP();
                 Thread.Sleep(10000);
             }*/
-            Thread thread = new Thread(new ThreadStart(helper.getPublicIP));
+            thread = new Thread(new ThreadStart(helper.getPublicIP));
             thread.Start();
             
 
