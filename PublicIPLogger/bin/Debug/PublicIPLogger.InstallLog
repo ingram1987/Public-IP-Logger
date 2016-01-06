@@ -620,3 +620,11 @@ Affected parameters are:
    logtoconsole = 
    assemblypath = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
    logfile = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Uninstalling assembly 'C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Removing EventLog source Public_IP_Logger.
+Service Public_IP_Logger is being removed from the system...
+Service Public_IP_Logger was successfully removed from the system.

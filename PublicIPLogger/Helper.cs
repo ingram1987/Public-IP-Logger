@@ -10,14 +10,24 @@ namespace PublicIPLogger
 {
     class Helper
     {
-        private string lastIP = "";
-        private string currentIP = "";
-        public void getPublicIP()
+        string url = "http://checkip.dyndns.org";
+        
+        public string GetPublicIP()
         {
-            WebRequest req;
-            WebResponse resp;
+            WebRequest req = WebRequest.Create(url);
+            WebResponse resp = req.GetResponse();
+            System.IO.StreamReader sr = new System.IO.StreamReader(resp.GetResponseStream());
+            string response = sr.ReadToEnd().Trim();
+            string[] a = response.Split(':');
+            string a2 = a[1].Substring(1);
+            string[] a3 = a2.Split('<');
+            return Convert.ToString(a3[0]);
+        }
+        public void ProcessData()
+        {
+            string lastIP = "";
+            string currentIP = "";
             int timeBetweenRequestsMS = 100000;
-            string url = "http://checkip.dyndns.org";
             EventLog myLogger = new EventLog("PublicIPLogger", ".", "PublicIPLogger");
             int i = 0;
             while (0 != 1)
@@ -25,15 +35,7 @@ namespace PublicIPLogger
                 Thread.Sleep(timeBetweenRequestsMS);
                 try
                 {
-                    req = WebRequest.Create(url);
-                    resp = req.GetResponse();
-                    System.IO.StreamReader sr = new System.IO.StreamReader(resp.GetResponseStream());
-                    string response = sr.ReadToEnd().Trim();
-                    string[] a = response.Split(':');
-                    string a2 = a[1].Substring(1);
-                    string[] a3 = a2.Split('<');
-                    //string a4 = a3[0];
-                    currentIP = Convert.ToString(a3[0]);
+                    currentIP = GetPublicIP();
                     if (i > 0)
                     {
                         if (currentIP != lastIP)
@@ -57,15 +59,6 @@ namespace PublicIPLogger
 
 
             }
-        }
-
-        public void OnTimedEvent()
-        {
-            Execute();
-        }
-        public void Execute()
-        {
-            Console.WriteLine("Executing");
         }
     }
 }

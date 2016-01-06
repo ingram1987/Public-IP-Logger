@@ -20,9 +20,7 @@ namespace PublicIPLogger
         {
             InitializeComponent();
         }
-        //private Thread executeThread;
         Helper helper = new Helper();
-        //private Thread thread = new Thread(new ThreadStart(helper.getPublicIP));
         private Thread thread;
         protected override void OnStart(string[] args)
         {
@@ -30,14 +28,7 @@ namespace PublicIPLogger
             {
                 EventLog.CreateEventSource("PublicIPLogger", "PublicIPLogger");
             }
-            /*
-            while (0 != 1)
-            {
-                Helper helper = new Helper();
-                helper.getPublicIP();
-                Thread.Sleep(10000);
-            }*/
-            thread = new Thread(new ThreadStart(helper.getPublicIP));
+            thread = new Thread(new ThreadStart(helper.ProcessData));
             thread.Start();
             
 
