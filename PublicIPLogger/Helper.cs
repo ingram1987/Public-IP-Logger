@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Diagnostics;
 using System.Threading;
+using System.Configuration;
 namespace PublicIPLogger
 {
     class Helper
     {
         string url = "http://checkip.dyndns.org";
-        
+        string lastIP = "a";
+        string currentIP = "b";
         public string GetPublicIP()
         {
             WebRequest req = WebRequest.Create(url);
@@ -21,42 +23,47 @@ namespace PublicIPLogger
             string[] a = response.Split(':');
             string a2 = a[1].Substring(1);
             string[] a3 = a2.Split('<');
+            resp.Close();
             return Convert.ToString(a3[0]);
         }
         public void ProcessData()
         {
-            string lastIP = "";
-            string currentIP = "";
-            int timeBetweenRequestsMS = 100000;
+            int timeBetweenRequestsMS = 900000;
             EventLog myLogger = new EventLog("PublicIPLogger", ".", "PublicIPLogger");
             int i = 0;
+            //Infinte loop for service to run in
             while (0 != 1)
             {
-                Thread.Sleep(timeBetweenRequestsMS);
                 try
                 {
                     currentIP = GetPublicIP();
+                    //If service just started, do not mark Changed IP event
+                    if (i == 0)
+                    {
+                        lastIP = currentIP;
+                        myLogger.WriteEntry(currentIP, EventLogEntryType.Information, 1010, 1);
+                    }
                     if (i > 0)
                     {
                         if (currentIP != lastIP)
                         {
                             myLogger.WriteEntry(currentIP, EventLogEntryType.Information, 1012, 1);
                         }
-                    }
-                    else
-                    {
-                        myLogger.WriteEntry(currentIP, EventLogEntryType.Information, 1010, 1);
+                        else
+                        {
+                            myLogger.WriteEntry(currentIP, EventLogEntryType.Information, 1010, 1);
+                        }
                     }
                     lastIP = currentIP;
-                    i++;
+                    i = 1;
 
                 }
                 catch (Exception e)
                 {
                     myLogger.WriteEntry(e.ToString(), EventLogEntryType.Error, 1011, 1);
-                    i++;
+                    i = 2;
                 }
-
+                Thread.Sleep(timeBetweenRequestsMS);
 
             }
         }

@@ -628,3 +628,16 @@ Affected parameters are:
 Removing EventLog source Public_IP_Logger.
 Service Public_IP_Logger is being removed from the system...
 Service Public_IP_Logger was successfully removed from the system.
+Installing assembly 'C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
+Installing service Public_IP_Logger...
+Service Public_IP_Logger has been successfully installed.
+Creating EventLog source Public_IP_Logger in log Application...
+Committing assembly 'C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.exe
+   logfile = C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Debug\PublicIPLogger.InstallLog
