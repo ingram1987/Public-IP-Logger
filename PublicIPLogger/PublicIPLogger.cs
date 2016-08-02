@@ -24,7 +24,7 @@ namespace PublicIPLogger
         private Thread thread;
         protected override void OnStart(string[] args)
         {
-            System.Diagnostics.Debugger.Launch();
+            //System.Diagnostics.Debugger.Launch();
             //Create eventlog if it does not exist
             if (!EventLog.Exists("PublicIPLogger"))
             {
