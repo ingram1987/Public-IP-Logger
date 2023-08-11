@@ -32,7 +32,7 @@ namespace PublicIPLogger
             EventLog myLogger = new EventLog("PublicIPLogger", ".", "PublicIPLogger");
             int i = 0;
             //Infinte loop for service to run in
-            while (0 != 1)
+            while (true)
             {
                 try
                 {
