@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|c:\\users\\user\\documents\\github\\public-ip-logger\\publiciplogger\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|solutionrelative:publiciplogger\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|c:\\users\\user\\documents\\github\\public-ip-logger\\publiciplogger\\publiciplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|solutionrelative:publiciplogger\\publiciplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|c:\\users\\user\\documents\\github\\public-ip-logger\\publiciplogger\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|solutionrelative:publiciplogger\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|c:\\users\\user\\documents\\github\\public-ip-logger\\publiciplogger\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|solutionrelative:publiciplogger\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|c:\\users\\user\\documents\\github\\public-ip-logger\\publiciplogger\\publiciplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|solutionrelative:publiciplogger\\publiciplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|c:\\users\\user\\documents\\github\\public-ip-logger\\publiciplogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A7FE66-151B-47CE-A01E-0D7C74928F4D}|PublicIPLogger\\PublicIPLogger.csproj|solutionrelative:publiciplogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\Helper.cs",
+              "RelativeDocumentMoniker": "PublicIPLogger\\Helper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\Helper.cs",
+              "RelativeToolTip": "PublicIPLogger\\Helper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:15:27.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "PublicIPLogger\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\ProjectInstaller.cs",
+              "RelativeToolTip": "PublicIPLogger\\ProjectInstaller.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:14:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "PublicIPLogger\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "PublicIPLogger\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:14:40.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicIPLogger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\PublicIPLogger.cs",
+              "RelativeDocumentMoniker": "PublicIPLogger\\PublicIPLogger.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\PublicIPLogger.cs",
+              "RelativeToolTip": "PublicIPLogger\\PublicIPLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:14:28.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicIPLogger.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\PublicIPLogger.cs",
+              "RelativeDocumentMoniker": "PublicIPLogger\\PublicIPLogger.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\PublicIPLogger.cs [Design]",
+              "RelativeToolTip": "PublicIPLogger\\PublicIPLogger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:14:14.752Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\Program.cs",
+              "RelativeDocumentMoniker": "PublicIPLogger\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Public-IP-Logger\\PublicIPLogger\\Program.cs",
+              "RelativeToolTip": "PublicIPLogger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:13:19.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

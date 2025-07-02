@@ -1,8 +1,0 @@
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Release\PublicIPLogger.exe.config
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Release\Settings.config
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Release\PublicIPLogger.exe
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\bin\Release\PublicIPLogger.pdb
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Release\PublicIPLogger.ProjectInstaller.resources
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Release\PublicIPLogger.csproj.GenerateResource.Cache
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Release\PublicIPLogger.exe
-C:\Users\user\Documents\GitHub\Public-IP-Logger\PublicIPLogger\obj\Release\PublicIPLogger.pdb
