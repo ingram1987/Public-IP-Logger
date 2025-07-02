@@ -9,4 +9,4 @@ Event 1012 - Public IP has changed since last check
 
 You can download the installer for Public IP Logger here:
 
-https://github.com/ingram1987/Public-IP-Logger/blob/master/setup.exe?raw=true
+https://github.com/ingram1987/Public-IP-Logger/raw/refs/heads/master/PublicIPLogger%20Installer.exe
